@@ -16,7 +16,7 @@
 -->
 
 <resources>
-    <color name="photo_placeholder">#DCEDC8</color>
+    <color name="photo_placeholder">#50000000</color>
 
     <color name="theme_primary">#8BC34A</color>
     <color name="theme_primary_dark">#689F38</color>
@@ -25,5 +25,6 @@
     <color name="secondary_text">#757575</color>
     <color name="color_white">#fff</color>
     <color name="color_dark_charcoal">#333</color>
-    <color name="color_dark_charcoal_50_opacity"></color>
+    <color name="color_dark_charcoal_50_opacity">#5333</color>
+    <color name="black_transparent_0">#50000000</color>
 </resources>
